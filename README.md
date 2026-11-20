@@ -1,4 +1,6 @@
-![Metrics](/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 <!--
 **levin-design/levin-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
